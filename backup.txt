@@ -1,0 +1,12 @@
+#0;are;2;file1.txt;1;file2.txt;1#
+#4;Elani;1;file1.txt;1#
+#4;Elan;1;file2.txt;1#
+#7;Hai;2;file1.txt;2;file2.txt;1#
+#7;hai;2;file1.txt;2;file2.txt;1#
+#7;how;2;file1.txt;1;file2.txt;1#
+#7;hi;1;file2.txt;1#
+#19;thamizhan;1;file2.txt;1#
+#24;you;2;file1.txt;1;file2.txt;1#
+#24;You;1;file2.txt;1#
+#26;$Elan;1;file1.txt;1#
+#26;234;1;file1.txt;1#
